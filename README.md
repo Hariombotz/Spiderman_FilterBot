@@ -2,7 +2,7 @@
   <img src="https://graph.org/file/a5f6da40168d19a3bedb8.jpg">
 </p>
 <h1 align="center">
-  Biisal Filter Bot
+  Spiderman Filter Bot
 </h1>
 
 First Check our **Demo** bot -
@@ -38,6 +38,10 @@ For more information of the project, please refer to the [FEATURES PAGE](https:/
 ### 🔧 [TeamEvamaria](https://github.com/EvamariaTG/EvaMaria)
 
 🧑‍💻: [Team EvaMaria](https://t.me/TeamEvamaria)
+
+### 🔧 [Bishal](https://github.com/biisal)
+
+🧑‍💻 [Bishal](https://t.me/Biisal)
 
 ### 🔧 [HA BOTS](https://github.com/HA-Bots)
 
