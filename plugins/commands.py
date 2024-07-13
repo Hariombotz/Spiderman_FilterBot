@@ -155,6 +155,11 @@ async def start(client:Client, message):
                             InlineKeyboardButton('🤞🏻 ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴡɪᴛʜ ʙᴏᴛ 🤡', callback_data='earn')
                             ]]
                         reply_markup = InlineKeyboardMarkup(buttons)
+                        await m.edit_text("👀")
+                        await asyncio.sleep(0.4)
+                        await m.edit_text("<b><i>जय श्री राम ❤️</i></b>")
+                        await asyncio.sleep(0.6)
+                        await m.delete() 
                         await message.reply_photo(photo=START_IMG, caption=script.START_TXT.format(message.from_user.mention, get_status(), message.from_user.id),
                             reply_markup=reply_markup,
                             parse_mode=enums.ParseMode.HTML)
@@ -185,6 +190,11 @@ async def start(client:Client, message):
             InlineKeyboardButton('🤞🏻 ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴡɪᴛʜ ʙᴏᴛ 🤡', callback_data='earn')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
+        await m.edit_text("👀")
+        await asyncio.sleep(0.4)
+        await m.edit_text("<b><i>जय श्री राम ❤️</i></b>")
+        await asyncio.sleep(0.6)
+        await m.delete() 
         await message.reply_photo(photo=START_IMG, caption=script.START_TXT.format(message.from_user.mention, get_status(), message.from_user.id),
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
@@ -240,6 +250,11 @@ async def start(client:Client, message):
             InlineKeyboardButton('🤞🏻 ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴡɪᴛʜ ʙᴏᴛ 🤡', callback_data='earn')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
+        await m.edit_text("👀")
+        await asyncio.sleep(0.4)
+        await m.edit_text("<b><i>जय श्री राम ❤️</i></b>")
+        await asyncio.sleep(0.6)
+        await m.delete() 
         return await message.reply_photo(photo=START_IMG, caption=script.START_TXT.format(message.from_user.mention, get_status(), message.from_user.id),
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
