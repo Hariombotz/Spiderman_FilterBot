@@ -7,13 +7,13 @@
 
 First Check our **Demo** bot -
 
-[![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Bisal_Files_Talk)](https://t.me/directfilee_bot)
+[![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/hbbotz_supportch)](https://t.me/Nobitafilter_bot)
 
 ### Need Deployment Support?
 
 If you encounter any issues **Deploying** the bot, feel free to seek assistance in our **support group**:
 
-[![Join Support Group    ](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Bisal_Files_Talk)](https://t.me/Bisal_Files_Talk)
+[![Join Support Group    ](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/hbbotz_supportch)](https://t.me/hbbotz_supportch)
 
 # About This Repository :
 
@@ -43,7 +43,7 @@ For more information of the project, please refer to the [FEATURES PAGE](https:/
 
 🧑‍💻 [Hansaka Anuhas](https://t.me/Hansaka_Anuhas)
 
-### 🔧 [Support Group](https://t.me/Bisal_Files_Talk)
+### 🔧 [Support Group](https://t.me/hbbotz_supportch)
 
 ## Disclaimer
 
@@ -53,4 +53,4 @@ This repository is provided for educational purposes only. It is not intended fo
 
 This project is licensed under the [MIT License](https://github.com/biisal/biisal-filter-bot/blob/main/LICENSE)
 
-### Jai Shree Krishna !😉
+### जय श्री राम 😉
