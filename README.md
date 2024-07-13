@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/a5f6da40168d19a3bedb8.jpg">
+  <img src="https://graph.org/file/d4bfd6511b980e115a0e0.jpg">
 </p>
 <h1 align="center">
   Spiderman Filter Bot
